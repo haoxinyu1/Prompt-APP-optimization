@@ -1,3 +1,13 @@
+### 2026年3月27日 16:54:13更新v3.0：
+
+<details>
+<summary><strong>点击展开</strong> - 适合闭源企业级别3.0</summary>
+````markdown
+
+````
+
+</details>
+
 # AI编程助手提示词集合 (Prompt-APP)
 
 > 面向不同场景的AI开发助手提示词模板库，帮助开发者选择最适合的AI编程辅助工具。
